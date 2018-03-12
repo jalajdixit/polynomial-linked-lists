@@ -54,5 +54,4 @@ void create_poly(POLY **hptr)
 		printf("Add New Element ? [Y/y]: ");
 		scanf(" %c",&op);
 	}while(op=='y' || op=='Y');
-
 }
