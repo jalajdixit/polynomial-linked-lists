@@ -1,4 +1,7 @@
 # polynomial-linked-lists
+
+# To run this code into your system download all the files & use "make" command to generate executable file
+
  Adding 2 Polynomial Equation using Single Linked List
  Store the polynomial in form of power & coefficients
  Using Single Linked List
